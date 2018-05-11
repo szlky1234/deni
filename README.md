@@ -1,2 +1,2 @@
 # deni
-crypto in python
+Requires the use of the Cryptodome module
