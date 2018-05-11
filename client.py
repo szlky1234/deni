@@ -1,11 +1,8 @@
-
-
 import socket   #for sockets
 import sys  #for exit
 import blocksv2
 import time
 import hashlib
-
 
 pendingtransactions = []
 difficulty = 5
