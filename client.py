@@ -48,8 +48,6 @@ try:
 except TimeoutError:
     print('Connection timed out, try again later')
 
-
-
 def sendmsg(message):
     s.send(message.encode())
     reply = s.recv(4096)
