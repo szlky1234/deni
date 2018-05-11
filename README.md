@@ -1,2 +1,2 @@
 # deni
-Requires the use of the Cryptodome module
+Requires the use of the pycryptodome module
